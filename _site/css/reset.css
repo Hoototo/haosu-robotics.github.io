@@ -30,7 +30,7 @@ var{
 }
 
 ol, ul {
-	list-style: none; /*none*/
+	list-style: none;
 }
 blockquote, q {
 	quotes: none;
